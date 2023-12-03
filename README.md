@@ -1,3 +1,3 @@
-# discussion-forum-backend
-It is a part of FullStack Project Discussion-forum.
-It uses mongoDB Database and has expressJs integration.
+# discussion-forum-code
+You need to download modules to run it.
+It is a MERN based FullStack Project.
